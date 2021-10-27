@@ -1,0 +1,13 @@
+C:\Users\Misael\Desktop\desafioUno\DesafioUno\bin\Debug\netcoreapp3.1\DesafioUno.exe
+C:\Users\Misael\Desktop\desafioUno\DesafioUno\bin\Debug\netcoreapp3.1\DesafioUno.deps.json
+C:\Users\Misael\Desktop\desafioUno\DesafioUno\bin\Debug\netcoreapp3.1\DesafioUno.runtimeconfig.json
+C:\Users\Misael\Desktop\desafioUno\DesafioUno\bin\Debug\netcoreapp3.1\DesafioUno.runtimeconfig.dev.json
+C:\Users\Misael\Desktop\desafioUno\DesafioUno\bin\Debug\netcoreapp3.1\DesafioUno.dll
+C:\Users\Misael\Desktop\desafioUno\DesafioUno\bin\Debug\netcoreapp3.1\DesafioUno.pdb
+C:\Users\Misael\Desktop\desafioUno\DesafioUno\obj\Debug\netcoreapp3.1\DesafioUno.csprojAssemblyReference.cache
+C:\Users\Misael\Desktop\desafioUno\DesafioUno\obj\Debug\netcoreapp3.1\DesafioUno.AssemblyInfoInputs.cache
+C:\Users\Misael\Desktop\desafioUno\DesafioUno\obj\Debug\netcoreapp3.1\DesafioUno.AssemblyInfo.cs
+C:\Users\Misael\Desktop\desafioUno\DesafioUno\obj\Debug\netcoreapp3.1\DesafioUno.csproj.CoreCompileInputs.cache
+C:\Users\Misael\Desktop\desafioUno\DesafioUno\obj\Debug\netcoreapp3.1\DesafioUno.dll
+C:\Users\Misael\Desktop\desafioUno\DesafioUno\obj\Debug\netcoreapp3.1\DesafioUno.pdb
+C:\Users\Misael\Desktop\desafioUno\DesafioUno\obj\Debug\netcoreapp3.1\DesafioUno.genruntimeconfig.cache

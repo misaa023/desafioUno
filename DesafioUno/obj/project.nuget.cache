@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Sp6BVjFqT8ZonafhX6YunnudzmxjQ7IU/0UbzDIT+JmY6LW/UTnCf9XUbEfjouFNIjxmpqSnNvh0lbK9/GVdeg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Misael\\Desktop\\desafioUno\\DesafioUno\\DesafioUno.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Misael\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
